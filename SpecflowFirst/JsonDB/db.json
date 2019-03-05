@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Selenium with C#",
+      "author": "karthik KK"
+    },
+    {
+      "id": 2,
+      "title": "Appiums",
+      "author": "karthik KK"
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 15,
+      "title": "Curso teste",
+      "author": "marcelo"
+    },
+    {
+      "id": "16",
+      "title": "Teste Automation",
+      "author": "Marcelo Teste"
+    },
+    {
+      "id": "17",
+      "title": "Teste Automation New",
+      "author": "Marcelo Teste"
+    },
+    {
+      "id": "18",
+      "title": "Teste Automation New",
+      "author": "Marcelo Teste"
+    },
+    {
+      "id": "20",
+      "title": "Teste Automation New",
+      "author": "Marcelo Teste 2"
+    },
+    {
+      "id": "24",
+      "title": "Teste Automation New",
+      "author": "Marcelo Teste 4"
+    },
+    {
+      "id": "25",
+      "title": "Teste Automation New",
+      "author": "Marcelo Teste 4"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Excelence Course",
+      "posId": "karthik KK"
+    }
+  ],
+  "profile": {
+    "name": "Marcelo",
+    "postId": "1"
+  },
+  "address": {
+    "primary": [
+      {
+        "city": "Auckland",
+        "state": "Auckland",
+        "country": "New Zealand",
+        "pincode": 1010
+      },
+      {
+        "city": "Queenstown",
+        "state": "Queenstown",
+        "country": "New Zealand",
+        "pincode": 3423
+      }
+    ],
+    "secondary": [
+      {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India",
+        "pincode": 4545
+      }
+    ]
+  }
+}
